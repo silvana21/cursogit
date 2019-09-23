@@ -1,4 +1,6 @@
 Teste arquivo Leon
 Quero ver o circo explodir
+Estou forçando um conflito
+Quero ver o cirso pegar fogo.
 Estou fazendo um merge
 Vai dar conflito mesmo!
